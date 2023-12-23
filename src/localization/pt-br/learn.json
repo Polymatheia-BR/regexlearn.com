@@ -12,7 +12,7 @@
   "steps.whatIsRegex.description": "Expressões regulares são uma sequência de caracteres que expressam um padrão de busca. Frequentemente abreviado como `Regex` ou `Regexp`. São usadas especialmente para encontrar ou substituir palavras em textos. Além disso, podemos testar se um texto atende às regras que estabelecemos.\\n\\n Por exemplo, digamos que você tenha uma lista de nomes de arquivos. E você só quer encontrar os arquivos com a extensão `pdf`. Após escrever a expressão `^\\w+\\.pdf$`, ela funcionará. O significado das definições nessa expressão ficará mais claro à medida que avançarmos nas etapas.",
 
   "steps.basicMatchers.title": "Matchers básicos",
-  "steps.basicMatchers.description": "O caractere ou palavra que queremos encontrar é escrito diretamente. É semelhante a um processo de busca normal. Por exemplo, para encontrar a palavra `curioso` no texto, escreva a mesma.",
+  "steps.basicMatchers.description": "O caractere ou palavra que queremos encontrar é escrito diretamente. É semelhante a um processo de busca normal. Por exemplo, para encontrar a palavra `curious` no texto, escreva a mesma.",
 
   "steps.dotCharacter.title": "Ponto `.`: Qualquer caractere",
   "steps.dotCharacter.description": "O ponto `.` permite selecionar qualquer caractere, incluindo caracteres especiais e espaços.",
